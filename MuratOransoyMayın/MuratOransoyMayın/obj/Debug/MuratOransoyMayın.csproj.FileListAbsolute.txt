@@ -1,0 +1,11 @@
+C:\Users\murat\Desktop\ERP-Ders\ödev\MuratOransoyMayın\MuratOransoyMayın\bin\Debug\MuratOransoyMayın.exe.config
+C:\Users\murat\Desktop\ERP-Ders\ödev\MuratOransoyMayın\MuratOransoyMayın\bin\Debug\MuratOransoyMayın.exe
+C:\Users\murat\Desktop\ERP-Ders\ödev\MuratOransoyMayın\MuratOransoyMayın\bin\Debug\MuratOransoyMayın.pdb
+C:\Users\murat\Desktop\ERP-Ders\ödev\MuratOransoyMayın\MuratOransoyMayın\obj\Debug\MuratOransoyMayın.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\ERP-Ders\ödev\MuratOransoyMayın\MuratOransoyMayın\obj\Debug\MuratOransoyMayın.csproj.SuggestedBindingRedirects.cache
+C:\Users\murat\Desktop\ERP-Ders\ödev\MuratOransoyMayın\MuratOransoyMayın\obj\Debug\MuratOransoyMayın.Form1.resources
+C:\Users\murat\Desktop\ERP-Ders\ödev\MuratOransoyMayın\MuratOransoyMayın\obj\Debug\MuratOransoyMayın.Properties.Resources.resources
+C:\Users\murat\Desktop\ERP-Ders\ödev\MuratOransoyMayın\MuratOransoyMayın\obj\Debug\MuratOransoyMayın.csproj.GenerateResource.cache
+C:\Users\murat\Desktop\ERP-Ders\ödev\MuratOransoyMayın\MuratOransoyMayın\obj\Debug\MuratOransoyMayın.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\ERP-Ders\ödev\MuratOransoyMayın\MuratOransoyMayın\obj\Debug\MuratOransoyMayın.exe
+C:\Users\murat\Desktop\ERP-Ders\ödev\MuratOransoyMayın\MuratOransoyMayın\obj\Debug\MuratOransoyMayın.pdb
